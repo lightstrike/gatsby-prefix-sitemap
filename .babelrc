@@ -1,0 +1,9 @@
+{
+  "sourceMaps": true,
+  "ignore": ["dist"],
+  "env": {
+    "production": {
+      "ignore": ["__tests__", "dist"],
+    }
+  },
+}
